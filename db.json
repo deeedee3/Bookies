@@ -490,4 +490,15 @@
     "title": "The Trial",
     "year": 1925
   },
- 
+  {
+    "author": "Franz Kafka",
+    "country": "Czechoslovakia",
+    "imageLink": "images/the-castle.jpg",
+    "language": "German",
+    "link": "https://en.wikipedia.org/wiki/The_Castle_(novel)\n",
+    "pages": 352,
+    "title": "The Castle",
+    "year": 1926
+  }
+]
+}
