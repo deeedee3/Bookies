@@ -1,5 +1,3 @@
-
-
 ## Project Name: BOOKIES
 ## Author Name: Deborah Ndole
 
