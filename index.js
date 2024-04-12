@@ -1,3 +1,4 @@
+//function used to replace the base url to avoid repetition
 const baseUrl = 'http://localhost:3000/books';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -13,6 +14,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 });
 
+//function used to get the books from the API
 function fetchBooks(searchResult = '') {
   fetch(`${baseUrl}`, {
     method: 'GET',
