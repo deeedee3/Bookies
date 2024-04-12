@@ -43,7 +43,7 @@ function fetchBooks(searchResult = '') {
     })   
     .catch((err) => console.log(err));
 }
-
+ //function to make the books show up
 function renderBooks(books) {
   const bookContainer = document.querySelector('#books');
   const booksList = document.createElement('div');
