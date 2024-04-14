@@ -2,7 +2,7 @@
 
 #### Date, 2024/04/12
 
-#### By *Hamida Mstafa Mohamed*
+#### By *Deborah Wasere Ndole*
 
 ## Description
 It's a webpage that allows users to check the books that are available and can order from it.
