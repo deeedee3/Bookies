@@ -59,6 +59,7 @@ function renderBooks(books) {
 
   booksList.appendChild(image);
 
+  //function to create card 
   const cardBody = document.createElement('div');
   cardBody.classList.add('card-body');
 
