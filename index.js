@@ -1,5 +1,5 @@
 //function used to replace the base url to avoid repetition
-const baseUrl = 'http://localhost:3000/books';
+const baseUrl = 'https://my-json-server.typicode.com/deeedee3/Bookies/books';
 
 document.addEventListener('DOMContentLoaded', () => {
   fetchBooks();
