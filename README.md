@@ -1,4 +1,4 @@
-# (BOOKIES)
+# BOOKIES
 
 #### Date, 2024/04/12
 
