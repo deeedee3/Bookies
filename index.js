@@ -63,6 +63,7 @@ function renderBooks(books) {
   const cardBody = document.createElement('div');
   cardBody.classList.add('card-body');
 
+  //function to add a title
   const title = document.createElement('h5');
   title.classList.add('card-title');
   title.textContent = books.title;
