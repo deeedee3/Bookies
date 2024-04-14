@@ -23,11 +23,11 @@ Git clone https://github.com/deeedee3/Bookies.git
 
 
 ## Technologies used
-HTML
-CSS
-Github
-Javascript
-Bootstrap
+HTML,
+CSS,
+Github,
+Javascript,
+Bootstrap,
 
 ## Support and contact details
 github.com/deeedee3
