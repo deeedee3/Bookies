@@ -68,6 +68,7 @@ function renderBooks(books) {
   title.classList.add('card-title');
   title.textContent = books.title;
 
+  //function to add description  
   const description = document.createElement('p');
   description.classList.add('card-text');
   description.textContent = books.shortDescription;
